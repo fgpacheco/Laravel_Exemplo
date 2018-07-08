@@ -8,9 +8,8 @@ use Illuminate\Foundation\Testing\DatabaseTransactions;
 
 class CalculationsTest extends TestCase
 {
-    $this->assertTrue(true);
-    
-    /*public function testAdd()
+       
+    public function testAdd()
     {
         $this->assertEquals(
           4,
@@ -18,16 +17,11 @@ class CalculationsTest extends TestCase
         );
     }
 
-    /**
-     * Un altro semplice test di base.
-     *
-     * @return void
-     */
-    /*public function testMultiply()
+    public function testMultiply()
     {
         $this->assertEquals(
           9,
           3 * 3
         );
-    }*/
+    }
 }
