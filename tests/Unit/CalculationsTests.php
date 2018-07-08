@@ -8,7 +8,7 @@ use Illuminate\Foundation\Testing\DatabaseTransactions;
 
 class CalculationsTest extends TestCase
 {
-       
+/*
     public function testAdd()
     {
         $this->assertEquals(
@@ -24,4 +24,5 @@ class CalculationsTest extends TestCase
           3 * 3
         );
     }
+    */
 }
